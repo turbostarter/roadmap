@@ -1,1 +1,1 @@
-[<img src="https://www.turbostarter.dev/opengraph-image.png">](https://www.turbostarter.dev)
+[<img src="https://www.turbostarter.dev/opengraph-image.png?reset=true">](https://www.turbostarter.dev)
